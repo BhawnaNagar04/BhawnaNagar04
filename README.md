@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BhawnaNagar04
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning C++ programming language followed by DSA
+- 🌱 I’m currently learning C++ programming language 
 - 💞️ I’m looking to collaborate on Web-D
 - 📫 contact me through e-mail
 
